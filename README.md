@@ -1,7 +1,8 @@
 # pyfiles
 
 This python app requires bottle and some other less significant imports
-It uses python2 in order to remain compatible with standard (ubuntu) apache WGSI (if you choose to use that.
+
+It uses python2 in order to remain compatible with standard (ubuntu) apache WGSI (if you choose to use that).
 
 This program lists file in a directory declared in pyfiles.py - see the global variables section
 The default dir is /data/share/dlfiles.
